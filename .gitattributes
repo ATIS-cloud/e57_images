@@ -1,0 +1,2 @@
+*.las filter=lfs diff=lfs merge=lfs -text
+*.e57 filter=lfs diff=lfs merge=lfs -text
