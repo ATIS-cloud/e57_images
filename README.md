@@ -91,7 +91,7 @@ Below is an example of how the `vectorChild` for an image should be structured i
 ## 📚 Additional Resources
 To learn more about the E57 format, refer to the following resources:
 
-- [Official E57 Documentation (ASTM7Cen-US.pdf)](code/docs/ASTM7Cen-US.pdf)
+- [Official E57 Documentation (ASTM7Cen-US.pdf)](assets/docs/ASTM7Cen-US.pdf)
 - [E57 Format Website](http://www.libe57.org/index.html)
 - [Sample Data Repository](http://www.libe57.org/data.html)
 - [C++ Library Without Boost](https://github.com/asmaloney/libE57Format)
