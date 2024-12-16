@@ -109,7 +109,7 @@ Explore the examples:
 - [C++ Examples](code/C++/)
 - [Python Examples](code/python/)
 
-Check out the [e57_unstructured_samples](samples) directory for reference files.
+Check out the [samples](samples) directory for reference files.
 
 ## 🤝 Contributing
 Contributions are welcome! Follow these steps to contribute:
